@@ -1,2 +1,2 @@
 # manual-updater
-Updater for manually updated CVEs
+Updater for manually input CVEs
