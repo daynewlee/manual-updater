@@ -1,4 +1,4 @@
-module scannerV4/manualUpdater
+module github.com/daynewlee/manual-updater
 
 go 1.20
 
